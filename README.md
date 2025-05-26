@@ -60,7 +60,7 @@ Ao concluir este desafio, você será capaz de:
 
 ## 🚀 Como Usar
 
-1. Baixe o arquivo `Simulador_FII.xlsx`;
+1. [Baixe o arquivo](https://docs.google.com/spreadsheets/d/1ICoVj0WUwMlo5g5ud_cimv2DWvZf7rsR/edit?usp=sharing&ouid=106322927260558064951&rtpof=true&sd=true)
 2. Insira os dados nos campos indicados na aba de entrada;
 3. Visualize os resultados nas seções de projeção e gráficos;
 4. Ajuste os parâmetros conforme necessário para simular diferentes cenários de investimento.
